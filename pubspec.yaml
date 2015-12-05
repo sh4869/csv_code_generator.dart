@@ -1,0 +1,9 @@
+name: csv_literal_generator
+author: sh4869 <nobuk4869@gmail.com> # name <email>
+homepage: https://github.com/sh4869/csv_literal_generator # https://github.com/user/repo
+version: 0.1.0
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+description: CSV Literal Generator using source_gen package
+dependencies:
+  source_gen: '>=0.4.5+1 <0.5.0'
